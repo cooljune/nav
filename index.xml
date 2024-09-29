@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>绝赚导航</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 绝赚导航</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>绝赚导航💸 站长微信:Hiveking</description>
+    </item>
+    
+  </channel>
+</rss>
