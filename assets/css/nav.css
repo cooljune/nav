@@ -33,7 +33,6 @@ a:hover,a:focus{color:#232323;text-decoration:none}
 .page .panel p,.page .comments-area p{font-size:15px;line-height:1.8}
 .sidebar-menu{display:table-cell;position:relative;width:250px;background:#2c2e2f;z-index:1}
 .sidebar-menu .logo-env{padding:19px 30px;border-bottom:1px solid #313437}
-.sidebar-menu .logo-env .logo{float:left}
 .sidebar-menu .logo-env .logo .logo-collapsed{display:none}
 .sidebar-menu .main-menu{padding:0 30px;margin-top:20px;margin-bottom:20px;list-style:none}
 .navbar.horizontal-menu .navbar-inner>.nav.navbar-mobile{display:none}
